@@ -59,7 +59,10 @@ https://www.desmos.com/calculator/tyjfpmbpeg
 Blue points - actual dataset  
 Red line - predicted curve
 
-![Fitted Curve](FLAM_R&D_CurveFit_Comparision.png)
+![Fitted Curve]
+
+<img width="859" height="682" alt="FLAM_R D_CurveFit_Comparison" src="https://github.com/user-attachments/assets/0bf9e974-f825-4f7a-bbee-107794d6c419" />
+
 
 ---
 
